@@ -11,6 +11,8 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 ```sh
 npm install
+npm install three
+npm i --save-dev @types/three
 ```
 
 ### Compile and Hot-Reload for Development
